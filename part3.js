@@ -12,3 +12,7 @@ console.log(myName);
 // Here we are using the length property to display the string length
 let length = myString.length;
 console.log(length);
+
+// Using the charAt() method to display the first character in the string
+let char0 = myString.charAt(0);
+console.log(char0);
