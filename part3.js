@@ -16,3 +16,7 @@ console.log(length);
 // Using the charAt() method to display the first character in the string
 let char0 = myString.charAt(0);
 console.log(char0);
+
+// using same method as above but changing the value we are searching for
+let char11 = myString.charAt(10);
+console.log(char11);
