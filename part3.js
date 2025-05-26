@@ -6,3 +6,5 @@ let myName = "My name is Hiro";
 
 console.log(myString);
 console.log(anotherString);
+console.log(hello);
+console.log(myName);
