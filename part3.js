@@ -8,3 +8,7 @@ console.log(myString);
 console.log(anotherString);
 console.log(hello);
 console.log(myName);
+
+// Here we are using the length property to display the string length
+let length = myString.length;
+console.log(length);
