@@ -4,3 +4,5 @@ let anotherString = "   Another string";
 let hello = "Hello there!";
 let myName = "My name is Hiro";
 
+console.log(myString);
+console.log(anotherString);
