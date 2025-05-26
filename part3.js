@@ -36,3 +36,19 @@ console.log(upperCase);
 // using lowerCase to change text to lowercase
 let lowerCase = myName.toLowerCase();
 console.log(lowerCase);
+
+// Join hello string and myName string
+let joinString = hello.concat(myName);
+console.log(joinString);
+
+// Remove the space from the string using trim
+let removeSpace = anotherString.trim();
+console.log(removeSpace);
+
+// replace is a with a space
+let replaceString = myString.replace("is a string", "string");
+console.log(replaceString);
+
+// split myString
+let splitString = myString.split(" ");
+console.log(splitString);
