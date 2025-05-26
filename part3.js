@@ -28,3 +28,11 @@ console.log(slice1);
 // using subString to get value from myString
 let subString1 = anotherString.substring(6, 9);
 console.log(subString1);
+
+// using upperCase to change text to uppercase
+let upperCase = myName.toUpperCase();
+console.log(upperCase);
+
+// using lowerCase to change text to lowercase
+let lowerCase = myName.toLowerCase();
+console.log(lowerCase);
