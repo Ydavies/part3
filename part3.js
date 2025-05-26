@@ -20,3 +20,11 @@ console.log(char0);
 // using same method as above but changing the value we are searching for
 let char11 = myString.charAt(10);
 console.log(char11);
+
+// using slice to get value from myString
+let slice1 = myString.slice(5, 9);
+console.log(slice1);
+
+// using subString to get value from myString
+let subString1 = anotherString.substring(6, 9);
+console.log(subString1);
