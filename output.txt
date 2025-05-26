@@ -1,1 +1,1 @@
-This is a string to save to text file :)
+We are reading a string from a text file :)
