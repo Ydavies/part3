@@ -2,7 +2,7 @@
 let myString = "This is a string";
 let anotherString = "   Another string";
 let hello = "Hello there!";
-let myName = "My name is Hiro";
+let myName = "Hiro";
 
 console.log(myString);
 console.log(anotherString);
